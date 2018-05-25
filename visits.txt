@@ -1,5 +1,5 @@
 {
     "inicio": 1,
     "contacto": 1,
-    "proyectos": 1
+    "proyectos": 2
 }
