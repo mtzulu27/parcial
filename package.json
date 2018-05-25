@@ -1,0 +1,25 @@
+{
+  "name": "parcial_mateo_zuluaga",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtzulu27/parcial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mtzulu27/parcial/issues"
+  },
+  "homepage": "https://github.com/mtzulu27/parcial#readme",
+  "description": "",
+  "dependencies": {
+    "consolidate": "^0.15.1",
+    "express": "^4.16.3",
+    "handlebars": "^4.0.11",
+    "nodemon": "^1.17.5"
+  }
+}
